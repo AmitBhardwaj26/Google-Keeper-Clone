@@ -1,11 +1,11 @@
 {
-  "main.js": "/keeper/static/js/main.10c98466.chunk.js",
-  "main.js.map": "/keeper/static/js/main.10c98466.chunk.js.map",
-  "static/js/1.d77b24bc.chunk.js": "/keeper/static/js/1.d77b24bc.chunk.js",
-  "static/js/1.d77b24bc.chunk.js.map": "/keeper/static/js/1.d77b24bc.chunk.js.map",
-  "runtime~main.js": "/keeper/static/js/runtime~main.503a7506.js",
-  "runtime~main.js.map": "/keeper/static/js/runtime~main.503a7506.js.map",
-  "index.html": "/keeper/index.html",
-  "precache-manifest.0d6ca92b4020717691e9c308266a2330.js": "/keeper/precache-manifest.0d6ca92b4020717691e9c308266a2330.js",
-  "service-worker.js": "/keeper/service-worker.js"
+  "main.js": "/Google-Keeper-Clone/static/js/main.10c98466.chunk.js",
+  "main.js.map": "/Google-Keeper-Clone/static/js/main.10c98466.chunk.js.map",
+  "static/js/1.d77b24bc.chunk.js": "/Google-Keeper-Clone/static/js/1.d77b24bc.chunk.js",
+  "static/js/1.d77b24bc.chunk.js.map": "/Google-Keeper-Clone/static/js/1.d77b24bc.chunk.js.map",
+  "runtime~main.js": "/Google-Keeper-Clone/static/js/runtime~main.65698816.js",
+  "runtime~main.js.map": "/Google-Keeper-Clone/static/js/runtime~main.65698816.js.map",
+  "index.html": "/Google-Keeper-Clone/index.html",
+  "precache-manifest.ddd1859e16b4bf1b6118104aaec98b0c.js": "/Google-Keeper-Clone/precache-manifest.ddd1859e16b4bf1b6118104aaec98b0c.js",
+  "service-worker.js": "/Google-Keeper-Clone/service-worker.js"
 }
