@@ -1,11 +1,11 @@
 {
-  "main.js": "/static/js/main.10c98466.chunk.js",
-  "main.js.map": "/static/js/main.10c98466.chunk.js.map",
-  "static/js/1.d77b24bc.chunk.js": "/static/js/1.d77b24bc.chunk.js",
-  "static/js/1.d77b24bc.chunk.js.map": "/static/js/1.d77b24bc.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "index.html": "/index.html",
-  "precache-manifest.9f2ce914c4c879c424cb71353c2ce639.js": "/precache-manifest.9f2ce914c4c879c424cb71353c2ce639.js",
-  "service-worker.js": "/service-worker.js"
+  "main.js": "/keeper/static/js/main.10c98466.chunk.js",
+  "main.js.map": "/keeper/static/js/main.10c98466.chunk.js.map",
+  "static/js/1.d77b24bc.chunk.js": "/keeper/static/js/1.d77b24bc.chunk.js",
+  "static/js/1.d77b24bc.chunk.js.map": "/keeper/static/js/1.d77b24bc.chunk.js.map",
+  "runtime~main.js": "/keeper/static/js/runtime~main.503a7506.js",
+  "runtime~main.js.map": "/keeper/static/js/runtime~main.503a7506.js.map",
+  "index.html": "/keeper/index.html",
+  "precache-manifest.0d6ca92b4020717691e9c308266a2330.js": "/keeper/precache-manifest.0d6ca92b4020717691e9c308266a2330.js",
+  "service-worker.js": "/keeper/service-worker.js"
 }
